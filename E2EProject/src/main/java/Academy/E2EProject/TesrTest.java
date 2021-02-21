@@ -10,5 +10,11 @@ class TesrTest {
 	void test() {
 		fail("Not yet implemented");
 	}
+	
+	@test
+	public void test1()
+	{
+		System.out.println("test updation check");
+	}
 
 }
